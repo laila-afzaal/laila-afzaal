@@ -5,7 +5,7 @@
 - Cloud Native and Mobile Web Computing.
 <h3/>
 <hr />
-<h2>About Me:<h2 />
+<h2>About Me:<h2/>
   <h3>
 - 😄 Pronouns: she / her <br /><br />
 - 🔭 I’m currently working on developing my skills <br /><br />
@@ -13,14 +13,27 @@
 - 💬 Ask me about anything related to mern stack web dev. <br /><br />
 - 📫 How to reach me: email me at lailaafzaal06@gmail.com <br /><br />
 - ⚡ Fun fact: I like to learn new technologies/languages. 
-<h3/>
-<hr />
+<h3/><br />
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laila-afzaal&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Technologies and tools I code with:<h2/>
+<br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laila-afzaal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+<h2>My Repositories<h2/>    
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+ <a href="https://github.com/laila-afzaal/product-list-CRUD-operations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laila-afzaal&repo=product-list-CRUD-operations&theme=tokyonight" />
+</a>
+<a href="https://github.com/laila-afzaal/To-Do-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laila-afzaal&repo=To-Do-App&theme=tokyonight" />
+</a>
+  
+<h2>Technologies and tools I code with:<h2/>
+  
+  
+<h2>Skills:<h2/> HTML5 / CSS3 / JavaScript(ES6) / Node.js / Express.js / MongoDB / React.js / Git / GitHub / Linux
 
 <h2>Find me around the web🌍:<h2/>
   
