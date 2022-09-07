@@ -1,19 +1,19 @@
 <h1>Hi, I’m Laila 👋👩‍💻</h1> 
 <h2>I’m currently learning: </h2>
-<h3>
+
 - MERN Stack Web development <br/>
 - Cloud Native and Mobile Web Computing.
-<h3/>
+
 <hr />
 <h2>About Me:<h2/>
-  <h3>
-- 😄 Pronouns: she / her <br /><br />
-- 🔭 I’m currently working on developing my skills <br /><br />
-- 🌱 I’m currently learning Web Development & Cloud Native Computing <br /><br />
-- 💬 Ask me about anything related to mern stack web dev. <br /><br />
-- 📫 How to reach me: email me at lailaafzaal06@gmail.com <br /><br />
-- ⚡ Fun fact: I like to learn new technologies/languages. 
-<h3/><br />
+
+- 🔭 I’m currently working on developing my skills <br />
+- 🌱 I’m learning Web Development & Cloud Native Computing <br />
+- 💬 Ask me about anything related to mern stack web dev. <br />
+- 📫 How to reach me: email me at lailaafzaal06@gmail.com <br />
+- ⚡ Fun fact: I like to learn new technologies/languages. <br />
+- 😄 Pronouns: she / her
+<br />
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laila-afzaal&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
