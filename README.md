@@ -10,7 +10,9 @@
 - 🔭 I’m currently working on developing my skills <br />
 - 🌱 I’m learning Web Development & Cloud Native Computing <br />
 - 💬 Ask me about anything related to mern stack web dev. <br />
-- 📫 How to reach me: email me at lailaafzaal06@gmail.com <br />
+- 📫 How to reach me: <br />
+- Email me at lailaafzaal06@gmail.com & <br />
+- Contact: +92 316 2960230 <br />
 - ⚡ Fun fact: I like to learn new technologies/languages. <br />
 - 😄 Pronouns: she / her
 <br />
